@@ -1,2 +1,3 @@
-# catequese-batismal
-Created by RotorQuant agent
+# use this repository to create the site about baptism:
+
+Generated GitHub Pages project.
